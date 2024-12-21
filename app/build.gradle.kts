@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.android_cicd_github_action"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.android_cicd_github_action"
